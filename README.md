@@ -109,6 +109,3 @@ if __name__ == "__main__":
     # Number taken from: http://wiki.mbalib.com/wiki/Black-Scholes期权定价模型
     print BlackScholes('c', 164.0, 165.0, 0.0959, 0.0521, 0.0841) # 5.78356724296
 ```
-
-### GraSPP_Macroeconomics
-![alt tag](image/euler_equation.jpg)
