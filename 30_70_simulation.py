@@ -12,7 +12,7 @@ def Money(num_sims, num_participants):
 	This is the rewritten code of simulations from: 
 	https://www.quora.com/How-can-I-win-a-stock-market-competition-in-1-month-from-scratch
 	－ We have 100 participatns other than you
-	- You pick 1 stock that has 70%' chance of going bankrupt and 30%' chaance of jumping 100%
+	- You pick 1 stock that has 70%' chance of going bankrupt and 30%' chance of jumping 100%
 	- Other pick from the universe of stocks with 25%' volatility and 10%' average return. (# strong assumption)
 	"""
 	i_won = []	# array to store outcomes
