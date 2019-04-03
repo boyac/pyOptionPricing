@@ -1,3 +1,6 @@
+# pyOptionPricing
+- use python 2.7
+
 ### Traditional Historical Volatility Calculation
 ![alt tag](image/classical_vol.jpg)
 
