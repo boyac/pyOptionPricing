@@ -1,6 +1,6 @@
 # pyOptionPricing
 - use python 2.7
-- [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](chinawhitewhy%40gmail.com)
+- [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](chinawhitewhy@gmail.com)
 
 
 ### Traditional Historical Volatility Calculation
