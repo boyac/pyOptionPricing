@@ -1,5 +1,7 @@
 # pyOptionPricing
 - use python 2.7
+- this is by far the most popular repository
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](boya.chiou@gmail.com)
 
 ### Traditional Historical Volatility Calculation
 ![alt tag](image/classical_vol.jpg)
