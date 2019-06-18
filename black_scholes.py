@@ -23,7 +23,7 @@ def BlackScholes(CallPutFlag,S,K,t,r,s):
     s = Variance(volitility)
     Ln = NaturalLog
     """
-    d1 = (log(S/K)+(r+s**2/2.)*t)/(sqrt(s*t))
+    d1 = (log(S/K)+(r+s/2)*t)/(sqrt(s*t))
     d2 = d1-sqrt(s*t)
 
     if CallPutFlag=='c':
@@ -34,4 +34,4 @@ def BlackScholes(CallPutFlag,S,K,t,r,s):
 
 if __name__ == "__main__":
     # Number taken from: http://wiki.mbalib.com/wiki/Black-Scholes期权定价模型
-    print BlackScholes('c', 164.0, 165.0, 0.0959, 0.0521, 0.0841) # 5.78356724296
+    print BlackScholes('c', 164.0, 165.0, 0.0959, 0.0521, 0.0841) # 5.788529972549341
