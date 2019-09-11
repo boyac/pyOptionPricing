@@ -23,7 +23,7 @@ def BlackScholes(CallPutFlag,S,K,t,r,s):
     s = Variance(volitility)
     Ln = NaturalLog
     """
-    d1 = (log(S/K)+(r+s/2)*t)/(sqrt(s*t))
+    d1 = (log(S/K)+(r+(s**2)/2)*t)/(sqrt(s*t))
     d2 = d1-sqrt(s*t)
 
     if CallPutFlag=='c':
