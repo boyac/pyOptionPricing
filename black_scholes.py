@@ -4,6 +4,7 @@
 # @Last Modified by:   boyac
 # @Last Modified time: 2016-05-04 00:27:52
 
+from __future__ import division
 from scipy.stats import norm
 from math import *
 
