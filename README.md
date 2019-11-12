@@ -119,5 +119,6 @@ if __name__ == "__main__":
 ```
 
 ### Exotic Options Example: Shout Options by Monte Carlo Approximation
-```python
-```
+![alt tag](image/MC2.png)
+![alt tag](image/Shout2.png)
+
