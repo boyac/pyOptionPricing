@@ -39,7 +39,7 @@ if __name__ == '__main__':
 	# question arises of how do you determine the 30/70 percent chances ratio?
 	# I got stuck, if it follows a normal distribution and implied Vol 1 (= 100%),
 	# 1 std, about 70% (actually 68%) confidence interval of bankrupt or double the original investment.
-	# another 30% chance of either go -0 or more than double the orgional investment? 
+	# another 30% chance of either go -0 or more than double the original investment? 
 	# Still couldn't get where 30／70 ratio come from, is it a skewed dataset? 
 	# Besides, 'stock_returns' uses np.random.randn(normal distribution)
 	"""
