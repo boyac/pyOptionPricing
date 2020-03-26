@@ -6,8 +6,9 @@
 
 - Personal recommendation, RUFOUS COFFEE, the best coffee in Taipei, ranging from $5-.
 - ![alt tag](image/rufous.jpg)
-
+- ![alt tag](image/rufous2.jpg)
 ---
+
 ### Traditional Historical Volatility Calculation
 ![alt tag](image/classical_vol.jpg)
 
