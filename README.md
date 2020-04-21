@@ -5,7 +5,7 @@
 *You can also buy me a cup of coffee :)*[![paypal](http://rickrduncan.com/wp-content/uploads/2017/11/buy-me-coffee-paypal.png)](https://paypal.me/boyac?locale.x=en_US)
 
 - Personal recommendations, RUFOUS COFFEE, the best coffee in Taipei, ranging from $5-.<br/>
-- Another favorate, the Folks. <br/>
+- The Folks, is another favorite coffee shop.<br/>
 ![alt tag](image/rufous2.jpg)
 
 ---
