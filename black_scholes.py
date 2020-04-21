@@ -21,7 +21,7 @@ def BlackScholes(CallPutFlag,S,K,t,r,s):
     r = Risk-free interest rate
     N = Cumulative standard normal distribution
     e = Exponential term
-    s = Variance(volitility)
+    s = St. Deviation (volitility)
     Ln = NaturalLog
     """
     d1 = (log(S/K) + (r + (s ** 2)/2) * t)/(s * sqrt(t))
@@ -35,4 +35,4 @@ def BlackScholes(CallPutFlag,S,K,t,r,s):
 
 if __name__ == "__main__":
     # Number taken from: http://wiki.mbalib.com/wiki/Black-Scholes期权定价模型
-    print BlackScholes('c', S0=164.0, K=165.0, t=0.0959, r=0.0521, v=0.29) # 5.788529972549341
+    print BlackScholes('c', S=164.0, K=165.0, t=0.0959, r=0.0521, s=0.29) # 5.788529972549341
