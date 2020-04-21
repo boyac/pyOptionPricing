@@ -21,7 +21,7 @@ def BlackScholes(CallPutFlag,S,K,t,r,s):
     r = Risk-free interest rate
     N = Cumulative standard normal distribution
     e = Exponential term
-    s = St. Deviation (volitility)
+    s = St. Deviation (volatility)
     Ln = NaturalLog
     """
     d1 = (log(S/K) + (r + (s ** 2)/2) * t)/(s * sqrt(t))
