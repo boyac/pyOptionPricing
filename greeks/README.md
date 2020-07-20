@@ -1,2 +1,1 @@
-![alt tag](image/the_greeks.jpg)
-
+![alt tag](/image/the_greeks.jpg)
