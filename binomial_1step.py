@@ -19,9 +19,9 @@ def Binomial(S,K,u,d,r,T): # One-Step Binomial Pricing
     * u, d can be calculated by volatility assumption
     """
     
-    discount = exp(-r*T)
-    delta_s = 1 / (S*u - S*d)
-    portfolio = (S*d) * delta_s
+    discount = exp(-r * T)
+    delta_s = 1 / (S * u - S * d)
+    portfolio = (S * d) * delta_s
     pv = portfolio * discount # portfolio present value
     option_price = (S * delta_s) - pv
     return option_price
