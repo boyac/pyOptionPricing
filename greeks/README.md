@@ -1,6 +1,6 @@
 ### Greeks
 CALL/Option Price
-####Price
+#### Price
 - Delta: has the biggest impact on an option's value. It identifies how much the options premium may change, if the underlying price changes $1.00.
 It could also be interpreted as the probability of expiring ITM, e.g. Delta .40 (40% probability of expiring ITM). Lower the Delta, lower probability the option will expire ITM.
 One important thing to note about Delta, is that it doesn't have a constant rate of change. It grows as an option moves further ITM, and shringks as it moves furhter OTM. To understand how this works, please refer to Gamma.
