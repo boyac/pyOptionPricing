@@ -14,4 +14,6 @@ One important thing to note about Delta, is that it doesn't have a constant rate
  
  ### ■ Notes
 Implied volatility changes will also have an effect on Gamma. As implied volatility decreases, Gamma of ATM calls and puts increases. When implied volatility goes higher, the Gamma of both ITM and OTM calls and puts will be decreasing. This occurs because low implied volatility options will have a more dramatic change in Delta when the underlying moves. A high implied volatility underlying product will see less of a Delta change with movement as the possibility of more movements is foreseen.
+
+
 ![alt tag](/image/the_greeks.jpg)
