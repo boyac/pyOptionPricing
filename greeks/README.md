@@ -12,5 +12,6 @@ One important thing to note about Delta, is that it doesn't have a constant rate
 #### Implied Volatility
 - Vega: Vega estimates how much the premium may change with each one percentage point change in impolied volatility. If an option has a Vega 0.03 and implied volatility decreases one percentage point, the premium will be expected to drop $0.03. There are a lot of factors that could cause a spike in implied volatility, e.g. earning announcements, political conditions, and even weather. And the further out an option's expiration is, the higher its Vega will be. In other words, options with a longer expiration may react more to a change in the volatility.
  
+ ### Notes
 
 ![alt tag](/image/the_greeks.jpg)
