@@ -1,7 +1,7 @@
 # pyOptionPricing
 ## Content
 - use python 2.7
-- Option pricing
+- option pricing
 
 ## Your Support
 - You can contribute to the project by reporting bugs, suggesting enhancements, exchanging portfolio management experiences or
