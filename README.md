@@ -2,8 +2,8 @@
 
 A collection of Python scripts for option pricing and volatility calculations.
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/YOUR_GITHUB_USERNAME?style=for-the-badge)](https://github.com/sponsors/boyac)
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOUR_KOFI_USERNAME)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/boyac?style=for-the-badge)](https://github.com/sponsors/boyac)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/boyac)
 
 **If you find this project helpful, please consider supporting its development!** Your contribution helps to maintain and expand this valuable resource for the options trading community.
 
