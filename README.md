@@ -1,12 +1,42 @@
 # pyOptionPricing
-## Content
-- use python 2.7
-- option pricing
 
-## Your Support
-- You can contribute to the project by reporting bugs, suggesting enhancements, exchanging portfolio management experiences or
-you can make a donation to this project:
-  
+A collection of Python scripts for option pricing and volatility calculations.
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/YOUR_GITHUB_USERNAME?style=for-the-badge)](https://github.com/sponsors/boyac)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOUR_KOFI_USERNAME)
+
+**If you find this project helpful, please consider supporting its development!** Your contribution helps to maintain and expand this valuable resource for the options trading community.
+
+## Description
+
+This repository provides implementations of various option pricing models and volatility calculations in Python 2.7. It's a valuable resource for:
+
+*   Students learning about option pricing theory
+*   Quantitative analysts and traders
+*   Anyone interested in exploring financial modeling techniques
+
+## Key Features
+
+*   **Traditional Historical Volatility Calculation:** Simple and easy-to-understand implementation.
+*   **Garman-Klass Historical Volatility:** More sophisticated volatility estimation.
+*   **Black-Scholes Model:** Classic option pricing model.
+*   **Exotic Option Example (Shout Options):** Demonstration of Monte Carlo approximation.
+*   **Clear and Commented Code:** Easy to follow and adapt for your own needs.
+
+## Usage
+
+To use these scripts, you'll need:
+
+*   Python 2.7
+*   pandas
+*   pandas_datareader
+*   scipy
+
+Install the dependencies using pip:
+
+```bash
+pip install pandas pandas_datareader scipy
+```
 ---
 
 ### Traditional Historical Volatility Calculation
@@ -125,4 +155,6 @@ if __name__ == "__main__":
 ### Exotic Options Example: Shout Options by Monte Carlo Approximation
 ![alt tag](image/MC2.png)
 ![alt tag](image/Shout2.png)
+
+
 
