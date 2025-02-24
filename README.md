@@ -163,7 +163,8 @@ This project is made possible by the generous support of its users. If you find 
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/boyac?style=for-the-badge)](https://github.com/sponsors/boyac)
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/boyac)
-![Downloads](https://img.shields.io/github/downloads/boyac/pyOptionPricing/total)
+![Stats](https://img.shields.io/github/downloads/boyac/pyOptionPricing/total?label=Stats&color=blue)
+
 *   Becoming a GitHub Sponsor
 *   Buying me a coffee on Ko-fi
 
